@@ -1,2 +1,2 @@
-# nextjs-javascript-startup-script
-Startup template running NextJS in the JavaScript framework
+# nextjs-typescript-startup-script
+Startup template running NextJS in the TypeScript framework
